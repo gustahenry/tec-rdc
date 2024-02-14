@@ -1,0 +1,50 @@
+{
+    "Equipamento1": {
+        "codigo": "12",
+        "img": "img\\img1.jpg",
+        "modelo": "1323548",
+        "serie": "15487",
+        "tipo1": "15",
+        "tipo2": "48318487",
+        "fabricante1": "1546",
+        "fabricante2": "78321848",
+        "min": "02",
+        "max": "100",
+        "escala": "22",
+        "localizacao1": "131",
+        "localizacao2": "8548942318",
+        "situacao": "ativo"
+    },
+    "Equipamento2": {
+        "codigo": "20",
+        "img": "img\\img2.jpg",
+        "modelo": "1215456",
+        "serie": "45348",
+        "tipo1": "45",
+        "tipo2": "356735434",
+        "fabricante1": "4586",
+        "fabricante2": "54345348",
+        "min": "01",
+        "max": "500",
+        "escala": "26",
+        "localizacao1": "547",
+        "localizacao2": "45345387534",
+        "situacao": "ativo"
+    },
+    "Equipamento3": {
+        "codigo": "18",
+        "img": "img\\img3.jpg",
+        "modelo": "7865456",
+        "serie": "45314",
+        "tipo1": "87",
+        "tipo2": "45343244",
+        "fabricante1": "4578",
+        "fabricante2": "12345676",
+        "min": "00",
+        "max": "200",
+        "escala": "35",
+        "localizacao1": "586",
+        "localizacao2": "453437864",
+        "situacao": "ativo"
+    }
+}

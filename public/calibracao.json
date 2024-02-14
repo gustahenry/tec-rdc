@@ -1,0 +1,29 @@
+{
+    "Equipamento1": {
+        "laboratorio":"laboratorio 1",
+        "certificado":"1561484221",
+        "norma":"215484515",
+        "drcalibracao":"Malcolm Lockyer",
+        "prazo":"10/05/2000",
+        "prox":"20/08/2020",
+        "pdf":"pdf\\teste.pdf"
+    },
+    "Equipamento2": {
+        "laboratorio":"laboratorio 5",
+        "certificado":"1561484221",
+        "norma":"215484515",
+        "drcalibracao":"Robert Lockyer",
+        "prazo":"10/05/2000",
+        "prox":"20/08/2020",
+        "pdf":"pdf\\teste.pdf"
+    },
+    "Equipamento3": {
+        "laboratorio":"laboratorio 9",
+        "certificado":"1561484221",
+        "norma":"215484515",
+        "drcalibracao":"Carl Lockyer",
+        "prazo":"10/05/2000",
+        "prox":"20/08/2020",
+        "pdf":"pdf\\teste.pdf"
+    }
+}
